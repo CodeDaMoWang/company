@@ -2,7 +2,6 @@ package com.cp.panelutils;
 
 import com.cp.dao.PersonalInformDAO;
 import com.cp.factory.DAOFactory;
-import com.cp.model.AllInform;
 import com.cp.model.PersonalInform;
 
 import javax.swing.*;

@@ -5,8 +5,6 @@ import com.cp.model.PersonalInform;
 import org.junit.Before;
 import org.junit.Test;
 
-import javax.naming.ldap.PagedResultsControl;
-
 
 import java.sql.SQLException;
 import java.util.Date;

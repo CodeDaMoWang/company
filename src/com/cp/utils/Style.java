@@ -3,8 +3,6 @@ package com.cp.utils;
 import javax.swing.*;
 import java.awt.*;
 
-import static javax.swing.SwingConstants.CENTER;
-
 /**
  * Created by lq on 2017/12/19.
  */

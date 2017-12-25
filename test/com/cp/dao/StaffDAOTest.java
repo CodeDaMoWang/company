@@ -8,8 +8,6 @@ import org.junit.Test;
 import java.sql.SQLException;
 import java.util.List;
 
-import static org.junit.Assert.*;
-
 /**
  * Created by 徐鹏 on 2017/12/22.
  */

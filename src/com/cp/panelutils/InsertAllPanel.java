@@ -5,7 +5,6 @@ import com.cp.dao.PersonalInformDAO;
 import com.cp.dao.StaffDAO;
 import com.cp.factory.DAOFactory;
 import com.cp.model.AllInform;
-import com.cp.model.PersonalInform;
 import com.cp.model.Staff;
 import com.cp.utils.DialogDatePicker;
 

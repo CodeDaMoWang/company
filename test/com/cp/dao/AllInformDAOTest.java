@@ -2,7 +2,6 @@ package com.cp.dao;
 
 import com.cp.factory.DAOFactory;
 import com.cp.model.AllInform;
-import com.cp.model.PersonalInform;
 import org.junit.Before;
 import org.junit.Test;
 
